@@ -4,6 +4,8 @@
 
 <h3 align="left">CSE student</h3>
 
+-🔭 I'm currently working on [SkinSight](https://github.com/RAGHUTTAMA-DEV/SkinSight) 
+
 - 🌱 I’m currently learning **HTML ,JavaScript , CSS , Figma , DJango , C programming , Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rishitaa01](https://github.com/rishitaa01)
