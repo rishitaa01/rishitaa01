@@ -14,9 +14,8 @@
 
 - 📫 How to reach me **rishita.agr01@gmail.com**
 
-# 📞 Connect with me:3
+# 📞 Connect with me :3
 <p align="left">
-<a href="https://twitter.com/re_shush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="re_shush" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rishita agrawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishita agrawal" height="30" width="40" /></a>
 <a href="https://instagram.com/rishitaa_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishitaa_01" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rishita agrawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rishita agrawal" height="30" width="40" /></a>
