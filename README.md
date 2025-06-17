@@ -14,8 +14,6 @@
 
 - 📫 How to reach me **rishita.agr01@gmail.com**
 
-- ⚡ Fun fact **I can crochet ,**
-
 # 📞 Connect with me:3
 <p align="left">
 <a href="https://twitter.com/re_shush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="re_shush" height="30" width="40" /></a>
