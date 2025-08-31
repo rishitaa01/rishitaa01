@@ -4,7 +4,7 @@
 
 <h3 align="left">CSE student</h3>
 
--🔭 I'm currently working on [SkinSight](https://github.com/RAGHUTTAMA-DEV/SkinSight) 
+-🔭 I'm currently working on [Eventique](https://github.com/rishitaa01/Eventique) 
 
 - 🌱 I’m currently learning **HTML ,JavaScript , CSS , Figma , C programming , Python**
 
