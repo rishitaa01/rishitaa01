@@ -4,7 +4,7 @@
 
 <h3 align="left">CSE student</h3>
 
--🔭 I'm currently working on [Eventique](https://github.com/rishitaa01/Eventique) 
+-🔭 I'm currently working on [Graph visualizer](https://github.com/rishitaa01/Graph-Visualization)) 
 
 - 🌱 I’m currently learning **HTML ,JavaScript , CSS , Figma , C programming , Python**
 
