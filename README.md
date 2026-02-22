@@ -4,7 +4,7 @@
 
 <h3 align="left">CSE student</h3>
 
-I'm currently working on [Expense Tracker](https://github.com/rishitaa01/spend_wise)) 
+I'm currently working on [Expense Tracker](https://github.com/rishitaa01/spend_wise) 
 
 - 📫 How to reach me **rishita.agr01@gmail.com**
 
